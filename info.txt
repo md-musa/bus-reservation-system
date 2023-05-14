@@ -1,0 +1,12 @@
+BUS_MANAGEMENT_SYSTEM
+
+=> User
+  -> name, email, password
+
+=> Features
+ -> Seat booking
+ -> add bus
+ -> Remove bus
+ -> Slot booking
+ -> Routes
+ -> 

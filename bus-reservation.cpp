@@ -25,9 +25,6 @@ typedef struct Bus {
   string driverName;
 } Bus;
 
-Bus buses[1000];
-int lastIndex = 0;
-
 int main() {
   login();
   mainMenu();
